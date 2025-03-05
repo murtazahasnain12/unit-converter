@@ -194,6 +194,6 @@ st.markdown("""
     }
     </style>
     <div class="footer">
-        Developed with ❤️ by <a href="https://www.linkedin.com/in/hamza-rafiq-5120752b8/" target="_blank">Hamza Rafique</a>
+        Developed with ❤️ by Murtaza Hasnain</a>
     </div>
     """, unsafe_allow_html=True)
